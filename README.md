@@ -87,10 +87,10 @@ The workbook is organized into **6 sheets**, split into two categories accessibl
 ## 📸 Dashboard
 
 ### Home Page — Navigation Hub
-![VCEMS Home Page](Images\home_page.png)
+![VCEMS Home Page](Images/home_page.png)
 
 ### Analytics Dashboard
-![VCEMS Analytics Dashboard](Images\dashboard_sheet.png)
+![VCEMS Analytics Dashboard](Images/dashboard_sheet.png)
 
 ---
 
